@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="1f867cd6-7295-4fee-8159-9c37fc9a063f" name="skycomposer@gmail.com">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
